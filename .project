@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>kkkkk</name>
+=======
+	<name>git1</name>
+>>>>>>> 72b03e981c43bd0e0b7985ab2512f09c23ebab09
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +18,18 @@
 	<natures>
 		<nature>com.aptana.projects.webnature</nature>
 	</natures>
+<<<<<<< HEAD
+=======
+	<filteredResources>
+		<filter>
+			<id>1525339623788</id>
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-node_modules</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+>>>>>>> 72b03e981c43bd0e0b7985ab2512f09c23ebab09
 </projectDescription>
