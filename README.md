@@ -5,7 +5,7 @@
 12364
 askdhksjhfkjsdhfk
 hello git
-<<<<<<< HEAD
+
 傻得可怜房间卡收唠嗑
 ，mjg
 sdfsdf
@@ -18,7 +18,7 @@ sdf
 sdfsdf
 sdfsdf
 sdf
-=======
+
 
 傻得可怜房间卡收到货方会计师电话费会计师电话奥术大师
 
@@ -27,4 +27,4 @@ sdf
 
 傻得可怜房间卡收唠嗑
 
->>>>>>> d5368a53d3dbb0741c46f042a2823ca388040b76
+
